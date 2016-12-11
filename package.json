@@ -1,0 +1,18 @@
+{
+  "name": "goocaltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "google-auth-library": "^0.9.10",
+    "googleapis": "^15.0.0",
+    "../../lib/apirequest": "*",
+    "../../lib/utils": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cg",
+  "license": "ISC"
+}
